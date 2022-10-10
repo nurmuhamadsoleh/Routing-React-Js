@@ -13,7 +13,7 @@ const Home = () => {
   const handleSklar = () => {
     setLampu(!lampu);
     setLabel((e) => {
-      if (e == "ON") {
+      if (e === "ON") {
         return "OFF";
       }
       return "ON";

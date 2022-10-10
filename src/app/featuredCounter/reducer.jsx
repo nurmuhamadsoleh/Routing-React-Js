@@ -1,4 +1,3 @@
-import React from "react";
 import * as counter from "./constants";
 //valuenya di simpan dalam bentuk object sama seperti membuat state
 //untuk menampung state secara global
