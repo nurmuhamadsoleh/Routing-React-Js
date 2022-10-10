@@ -1,9 +1,8 @@
-import React, { useState } from "react";
+import React from "react";
 import Navbar from "../parts/Navbar";
 import { Link } from "react-router-dom";
 
 const Contacts = () => {
-  let [data, setSaa] = useState();
   return (
     <>
       <Navbar />
