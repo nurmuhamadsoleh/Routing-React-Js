@@ -32,8 +32,13 @@ const Navbar = () => {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/contact">
-                  Contact
+                <Link className="nav-link" to="/home">
+                  Reduce Fetc API
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="/reduce">
+                  Reduce Counter
                 </Link>
               </li>
             </ul>

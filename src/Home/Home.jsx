@@ -1,6 +1,6 @@
 //memanggil state yang ada di global. import connect dari react-redux
 import React, { useEffect } from "react";
-import { connect, useDispatch } from "react-redux";
+import { connect } from "react-redux";
 import {
   counterPlus,
   getDataMahasiswa,
